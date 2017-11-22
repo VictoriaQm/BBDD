@@ -1,0 +1,10 @@
+SQL> SELECT * FROM DEPARTAMENTO;
+
+        CD D                                                                    
+---------- ------------------------------------------------------------         
+         1 ANALISIS MATEMATICO                                                  
+         2 ASTROFISICA                                                          
+         3 ESTADISTICA, INVESTIGACION OPERATIVA Y COMPUTACION                   
+         4 MATEMATICA FUNDAMENTAL                                               
+
+SQL> SPOOL OFF
