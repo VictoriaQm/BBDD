@@ -29,3 +29,47 @@ SQL> SELECT * FROM PLAN_DOCENTE;
 19 rows selected.
 
 SQL> SPOOL OFF
+SQL> SELECT * FROM AREA;
+
+       CAR AR                                                                   
+---------- ------------------------------------------------------------         
+        CD                                                                      
+----------                                                                      
+         3 ASTRONOMIA Y ASTROFISICA                                             
+         2                                                                      
+                                                                                
+         4 CIENCIAS DE LA COMPUTACION E INTELIGENCIA ARTIFICIAL                 
+         3                                                                      
+                                                                                
+         5 DIDACTICA DE LA MATEMATICA                                           
+         1                                                                      
+                                                                                
+
+       CAR AR                                                                   
+---------- ------------------------------------------------------------         
+        CD                                                                      
+----------                                                                      
+         6 ESTADISTICA E INVESTIGACION OPERATIVA                                
+         3                                                                      
+                                                                                
+         7 LENGUAJES Y SISTEMAS INFORMATICOS                                    
+         3                                                                      
+                                                                                
+         8 MATEMATICA APLICADA                                                  
+         1                                                                      
+                                                                                
+
+       CAR AR                                                                   
+---------- ------------------------------------------------------------         
+        CD                                                                      
+----------                                                                      
+         1 ALGEBRA                                                              
+         4                                                                      
+                                                                                
+         2 ANALISIS MATEMATICO                                                  
+         1                                                                      
+                                                                                
+
+8 rows selected.
+
+SQL> SPOOL OFF
